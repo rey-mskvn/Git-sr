@@ -7,4 +7,5 @@ using System;
         }
         Subtract(a, b)
        { return a - b; }
+      //Бла-бла метод умножения
    }
